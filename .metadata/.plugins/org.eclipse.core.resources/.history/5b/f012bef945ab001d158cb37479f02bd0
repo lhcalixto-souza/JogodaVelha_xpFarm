@@ -1,0 +1,6 @@
+package game_board;
+
+public interface Jogador {
+	private int 
+
+}

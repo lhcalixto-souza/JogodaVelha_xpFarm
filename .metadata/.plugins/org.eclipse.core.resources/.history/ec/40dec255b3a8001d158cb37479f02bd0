@@ -1,0 +1,21 @@
+package game_players;
+
+public class Jogador01 {
+	private String nome ;
+	private char opcao;
+
+	
+	public String getNome() {
+		return nome;
+	}
+	public void setNome(String nome) {
+		this.nome = nome;
+	}
+	
+	public char getOpcao() {
+		return opcao;
+	}
+	public void setOpcao(char opcao) {
+		this.opcao = opcao;
+	}
+}
